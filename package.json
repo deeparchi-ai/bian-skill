@@ -1,0 +1,32 @@
+{
+  "name": "bian",
+  "version": "1.0.0",
+  "description": "BIAN (Banking Industry Architecture Network) standard for banking service landscape",
+  "main": "README.md",
+  "keywords": [
+    "bian",
+    "banking",
+    "service-domain",
+    "open-banking",
+    "financial-services",
+    "api-banking",
+    "deeparchi"
+  ],
+  "author": "DeepArchi",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kuangmi-bit/bian-skill.git"
+  },
+  "files": [
+    "README.md",
+    "EXAMPLES.md",
+    "references/**/*",
+    "assets/**/*"
+  ],
+  "skill": {
+    "name": "bian",
+    "description": "BIAN (Banking Industry Architecture Network) standard for banking service landscape. Provides service domain catalog, API design standards, and implementation guidance for banking architecture.",
+    "version": "1.0.0"
+  }
+}
